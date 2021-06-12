@@ -1,9 +1,9 @@
 {
     "name": "Dawn-And-Dew",
     "displayName": "Dawn & Dew",
-    "publisher":"turbom",
+    "publisher": "turbom",
     "description": "A classic dark theme with few twists",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.57.0"
     },
