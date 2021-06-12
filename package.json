@@ -1,0 +1,22 @@
+{
+    "name": "Dawn-And-Dew",
+    "displayName": "Dawn & Dew",
+    "publisher":"turbom",
+    "description": "A classic dark theme with few twists",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dawn & Dew",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dawn & Dew-color-theme.json"
+            }
+        ]
+    }
+}
