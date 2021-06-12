@@ -3,7 +3,7 @@
     "displayName": "Dawn & Dew",
     "publisher": "turbom",
     "description": "A classic dark theme with few twists",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.57.0"
     },
