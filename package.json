@@ -4,6 +4,7 @@
     "publisher": "turbom",
     "description": "A classic dark theme with few twists",
     "version": "0.4.0",
+    "icon": "./themes/assets/img/1x/logo.png",
     "engines": {
         "vscode": "^1.57.0"
     },
