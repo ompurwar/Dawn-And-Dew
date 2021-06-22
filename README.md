@@ -1,7 +1,7 @@
 # **Dawn & Dew**
 ## Give your 👀 Elixir 😎
 
-sweet subtle ans highlight only what is needed
+sweet subtle and highlight only what is needed
 #
 ## **1.** With terminal open:
 #
